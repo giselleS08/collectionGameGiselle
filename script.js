@@ -1,5 +1,5 @@
 /* VARIABLES */
-
+let catcher, fallingObject;
 
 /* SETUP RUNS ONCE */
 function setup() {
@@ -33,5 +33,13 @@ function draw() {
   {
     catcher.vel.x = -3;
   }
-   
+  else if (kb.pressing("right"))
+  {
+    catcher.vel.x = 3;
+    
+  } 
+  else
+  {
+    catcher.vel.x = 0;
+  }
 }
