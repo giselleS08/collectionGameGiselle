@@ -5,4 +5,4 @@ I made this project during the GirlsWhoCode curriculum to learn how to move spri
  
 I made this project using code from the p5play library using kb.pressing() to make it to where the player can interact with the platform.
 
-I struggled with the kb.pressing() not working how I wanted it to move. I learned that I had to have 3 conditions for it (one to move left, one to move right, and one to stay still).
+I struggled with the kb.pressing() not working how I wanted it to move. I learned that I had to have 3 conditions for it (one to move left, one to move right, and one to stay still).[![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
