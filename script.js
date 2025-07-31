@@ -28,7 +28,7 @@ function draw() {
       fallingObject.x= random(10,390);
       fallingObject.vel.y=random(1,5);
       score -=1;
-    }
+    } 
 
   //Move Catcher
   if (kb.pressing("left"))
